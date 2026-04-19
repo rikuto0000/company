@@ -1,0 +1,23 @@
+{
+  "name": "ios2pc-codespace",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "remoteUser": "vscode",
+  "customizations": {
+    "codespaces": {
+      "openFiles": [
+        "README.md"
+      ]
+    },
+    "vscode": {
+      "extensions": [
+        "GitHub.copilot",
+        "GitHub.copilot-chat"
+      ],
+      "settings": {
+        "editor.wordWrap": "on",
+        "git.autofetch": true,
+        "workbench.startupEditor": "readme"
+      }
+    }
+  }
+}
