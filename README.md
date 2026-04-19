@@ -30,6 +30,17 @@
 5. GitHub Copilotのサインインや有効化を求められたら許可します。
 6. READMEが開いた状態で開始できます。
 
+## iPhoneでCodeが見えない時
+
+GitHubアプリやiPhone向けの表示では、`Code` ボタンが見つけにくいことがあります。
+
+その場合は、次のどちらかをSafariで直接開いてください。
+
+- Codespaces一覧: [https://github.com/rikuto0000/company/codespaces](https://github.com/rikuto0000/company/codespaces)
+- 新規作成: [https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=rikuto0000/company](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=rikuto0000/company)
+
+うまく表示されない場合は、GitHubアプリではなくSafariを使い、必要なら `デスクトップ用Webサイトを表示` を有効にします。
+
 ## GitHubへ上げる最短手順
 
 まだGitHubリポジトリがない場合は、先にGitHub上で空のリポジトリを1つ作ります。
